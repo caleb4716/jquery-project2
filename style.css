@@ -1,0 +1,15 @@
+body {
+    background-image:url('images/skybackground.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.detail_area {
+    background-color:white;
+    border:5px solid black;
+    border-radius: 5px;
+    width:25%;
+}
+img {
+    float:right;
+    border:5px solid black;
+}

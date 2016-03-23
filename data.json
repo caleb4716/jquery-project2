@@ -1,0 +1,23 @@
+{
+    "static_line":{
+        "name":"Static line",
+        "description":"Students are dropped from a low altitude with the static line attached to their parachute. As they fall away from the plane, their parachute is automatically deployed. After learning to exit stable, students begin pulling their own parachutes, and are gradually dropped from higher altitudes to give them longer increments of freefall time.",
+        "image":"images/static-line.jpg",
+        "benefits":["Cheapest way to license", "Gradual Skill Progression"],
+        "drawbacks":["Freefall comes later in program", "Exit plane alone, no instructor "]
+    },
+    "aff":{
+        "name":"AFF (Accelerated Freefall)",
+        "description":"Students are dropped from full altitude right away with 2 instructors holding on to each side of them. After a few jumps the instructors begin releasing the student and giving them more freedom to practice freefall skills.",
+        "image":"images/aff.jpg",
+        "benefits":["More freefall, right away", "2 Instructors fly with you"],
+        "drawbacks":["Very expensive", "Sudden progression, many tasks"]
+    },
+    "tunnel":{
+        "name":"Wind tunnel",
+        "description":"A powerful machine creates a strong upward current of air in a contained tunnel. Students can levitate in this column of air, and it provides a good and accurate simulation of actual freefall for practice.",
+        "image":"images/tunnel.jpg",
+        "benefits":["Most cost efficient freefall practice", "Low stress environment"],
+        "drawbacks":["No time under parachute", "No progress towards license"]
+    }
+}

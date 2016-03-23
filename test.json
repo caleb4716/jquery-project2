@@ -1,0 +1,17 @@
+{
+    "static_line":{
+        "name":"Static line",
+        "benefits":["Cheapest way to license", "Gradual Skill Progression"],
+        "drawbacks":["Freefall comes later in program", "Exit plane alone, no instructor "]
+    },
+    "aff":{
+        "name":"AFF (Accelerated Freefall)",
+        "benefits":["More freefall, right away", "2 Instructors fly with you"],
+        "drawbacks":["Very expensive", "Sudden progression, many tasks"]
+    },
+    "tunnel":{
+        "name":"Wind tunnel",
+        "benefits":["Most cost efficient freefall practice", "Low stress environment"],
+        "drawbacks":["No time under parachute", "No progress towards license"]
+    }
+}
